@@ -21,7 +21,7 @@
 
 
 
-
+// Solution 2
 // Factorial using recursion
 function factorial(num) {
     if (num == 1 || num == 0) {
